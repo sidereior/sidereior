@@ -1,6 +1,6 @@
 # <span style="color:#6c63ff">About Me</span>
 
-<span style="color:#888888">I am a student and founder with a strong focus on sustainability and technology. Currently, I am the Founder of PaidPlanet, the first app that rewards users for being sustainable.</span>
+<span style="color:#888888">I'm Alex, a freshman at Dartmouth and programmer.  I am the Founder of PaidPlanet, the first app that rewards users for being sustainable.</span>
 
 ## <span style="color:#6c63ff">PaidPlanet - Join Now!</span>
 
