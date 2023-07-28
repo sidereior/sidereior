@@ -1,7 +1,7 @@
-# About Me
+# <span style="color:#6c63ff">About Me</span>
 
-I am a passionate entrepreneur and software engineer with a strong focus on sustainability and technology. Currently, I am the Founder of PaidPlanet, the first app that rewards users for being sustainable. Join me on this exciting journey to make a positive impact on the environment while earning rewards.
+<span style="color:#888888">I am a student and founder with a strong focus on sustainability and technology. Currently, I am the Founder of PaidPlanet, the first app that rewards users for being sustainable.</span>
 
-## PaidPlanet - Join Now!
+## <span style="color:#6c63ff">PaidPlanet - Join Now!</span>
 
-PaidPlanet is set to launch in early August. This groundbreaking app pays you to adopt sustainable practices and make eco-friendly choices. Be part of the sustainable revolution and sign up at [paidplanet.com](https://www.paidplanet.com).
+<span style="color:#888888">PaidPlanet is set to launch in early August, the first app that pays you to adopt sustainable practices and make eco-friendly choices:</span>  [paidplanet.com](https://www.paidplanet.com).
